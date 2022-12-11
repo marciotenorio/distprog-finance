@@ -1,6 +1,6 @@
 package br.imd.distprog.finance.service;
 
-import br.imd.distprog.finance.BillPayableRepository;
+import br.imd.distprog.finance.repository.BillPayableRepository;
 import br.imd.distprog.finance.client.ProcurementClient;
 import br.imd.distprog.finance.dto.billpayable.BillPayableMapper;
 import br.imd.distprog.finance.dto.billpayable.BillPayablePostRequestBody;

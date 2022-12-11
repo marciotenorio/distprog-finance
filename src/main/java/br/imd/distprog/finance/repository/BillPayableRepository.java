@@ -1,4 +1,4 @@
-package br.imd.distprog.finance;
+package br.imd.distprog.finance.repository;
 
 import br.imd.distprog.finance.model.BillPayable;
 import org.springframework.data.jpa.repository.JpaRepository;
