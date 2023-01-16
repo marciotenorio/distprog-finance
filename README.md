@@ -6,7 +6,7 @@ Este projeto faz parte da tarefa final da disciplina de Programação Distribuí
 Prof. Dr. Nélio Alessandro Azevedo Cacho.
 
 ### Descrição
-Um simples e abstrato modulo para um sistema ERP.
+Um simples e abstrato módulo financeiro para um sistema ERP.
 
 
 ### Microserviços 
